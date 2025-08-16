@@ -17,6 +17,7 @@
 **Title:** Customer Insight - Data Manipulation And Interrogation
 
 **SQL Code:** [Customer Insight - SQL Codes](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/Customer.sql)
+
 ![Customer_sql.png](Customer_sql.png)
 
 **SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from the database.
