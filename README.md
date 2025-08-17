@@ -52,11 +52,30 @@ This dashboard serves as a crucial tool for Vrinda Store’s management team, pr
 
 ![Customer_sql.png](Customer_sql.png)
 
-**SQL Skills Used:** Data Retrieval (SELECT): Queried and extracted specific information from the database.
-Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
-Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
-Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+**SQL Skills Used:** 
+- Data Retrieval (SELECT): Queried and extracted specific information from the database.
+- Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+- Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+- Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 **Project Description:** 
+This project focused on analysing customer and sales data to generate actionable insights that support business decision-making. Using SQL Server, I designed and executed queries to extract, manipulate, and interrogate data from multiple relational tables, including Customers, Orders, and Salesman.
 
-**Technology used:** SQL Server
+The project involved building reports that combined customer demographics, order details, purchase amounts, and salesman performance to understand sales trends and customer behaviour. Queries were designed to:
+
+- Retrieve customer and order information, including city, order date, and purchase amount.
+
+- Analyze orders by status to evaluate fulfilment efficiency.
+
+- Identify customers without assigned sales representatives for potential sales opportunities.
+
+- Join salesmen and customer data to analyse commission structures and their impact on sales.
+
+- Aggregate purchase amounts and order counts to assess overall sales performance across regions and time periods.
+
+Through this data interrogation, the project highlighted patterns in customer purchases, identified gaps in sales coverage, and provided insights into improving sales strategies.
+
+
+**Technology used:** SQL server
+
+
