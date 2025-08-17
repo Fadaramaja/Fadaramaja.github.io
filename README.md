@@ -78,4 +78,71 @@ Through this data interrogation, the project highlighted patterns in customer pu
 
 **Technology used:** SQL server
 
+# Project 3
+
+**Title:** [Supermarket Sales Analysis](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/Excel%20SuperMarket_Sales.xlsx)
+
+**Tools Used:** Microsoft Excel (Pivot Table, Pivot Chat, Power Query Editor, Timeline, Slicers, Conditional Formatting)
+
+**Project Description:** 
+This project involved the creation of an interactive supermarket sales dashboard in Excel to analyze sales performance across multiple dimensions, including customer type, product line, city, branch, time of day, payment method, and demographics. The dashboard was designed to give management a comprehensive overview of sales trends, gross income distribution, and customer preferences.
+
+The dataset used consisted of 1,000 transactions across 6 product categories. With Excel’s pivot tables, charts, and slicers, the dashboard provides dynamic filtering and visualization for decision-making.
+
+**Key findings:**
+1. Total Sales Overview
+
+ - Total income: $15,379.37 from 1,000 orders.
+
+- Average customer rating: 6.97.
+- Gender split: 501 females and 499 males (almost equal).
+
+2. Customer Type
+
+- Members contributed slightly more income ($7,820.16) compared to normal customers ($7,559.21).
+
+3. Monthly Performance
+
+- January recorded the highest sales ($5,537.71).
+
+- February had the lowest ($4,629.49).
+
+4. Branch Comparison
+
+- Branch C generated the highest income ($5,265.18).
+
+- Branches A and B generated almost an equal amount in sales.
+
+5. Payment Method
+
+- E-wallet was the most used payment method (345 transactions).
+
+- Followed by Cash (344) and Credit Card (311).
+
+6. Product Line Performance
+
+- Food and Beverages generated the highest income ($2,673.56).
+
+- Health & Beauty was the lowest performer ($2,342.56).
+
+7. Time of Day & Hours
+
+- Evening sales were the highest ($6,589.09), followed by afternoon ($5,847.48).
+
+- Peak hour: 7 PM ($1,890.45).
+
+8. Day of the Week
+
+- Saturday sales were the highest ($2,672.42).
+
+- Monday recorded the lowest ($1,804.72).
+
+9. City Comparison
+
+- Naypyitaw consistently outperformed the other two cities in total sales across months.
+  
+**Dashboard Overview:** 
+
+![Supermarket Sale Dashboard.png](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/Supermarket%20Sale%20Dashboard.png)
+
 
