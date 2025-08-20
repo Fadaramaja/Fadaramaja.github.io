@@ -152,14 +152,29 @@ The dataset used consisted of 1,000 transactions across 6 product categories. Wi
 **Title:** [HR Data Analysis and Dashboard](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/HR%20DATA%20ANALYTICS%20DASHBOARD.pbix)
 
 
-**Tools Used:** Power BI
+**Tools Used:** Microsoft Excel for Analysis and Calculated Columns, Power BI for Dashboard 
 
 
 **Project Description:**
+The goal of this project was to build an interactive HR Analytics Dashboard that provides management and HR stakeholders with actionable insights into the workforce. The dashboard is designed to help HR leaders make data-driven decisions on employee promotions, retention, workforce distribution, and workforce planning. 
 
+The dataset for this project was sourced from an Employee HR Excel workbook. To ensure data quality and reliability, I conducted a thorough cleaning process in Excel. I created calculated columns to enrich the dataset. Data types were standardised for consistency across fields. Once the dataset was fully cleaned and validated, it was imported into Power BI for interactive dashboard development and advanced visual analysis.
 
 **Key Findings:**
 
+1. **Workforce Size & Gender Diversity:** In a team of 1,470 total employees, only 40% are Female (588), while the remaining 60% are Male (882). This is an opportunity to improve diversity.
+
+2. **Promotion Readiness:** Only 4.9% are due for promotion. The majority (95.1%) are not yet eligible, which indicates a relatively young or recently promoted workforce.
+
+3. **Retention Risk:** 117 employees (8%) flagged for next retrenchment risk. This group requires close monitoring for possible replacement, training, or intervention.
+
+4. **Workforce Stability:** 92% of employees are active, which reflects stability.
+
+5. **Job Level Insights:** The Majority of employees are in Level 1 and Level 2 roles. Very few employees are in Levels 4 and 5, which points to a limited senior leadership pipeline, and this could pose succession challenges when considering the future of the organisation.
+
+6. **Workplace Proximity:** 64% (940 employees) live very close to the office, which likely improves attendance & productivity. 15.6% (229 employees) live very far, potentially impacting work-life balance and retention.
+
+This dashboard empowers HR leaders with clear visibility into workforce health, promotion cycles, retention risks, and employee demographics, enabling strategic HR decision-making that supports organisational growth.
 
 **Dashboard Overview:**
 ![HR_Dashboardd](HR_Dashboardd.png)
