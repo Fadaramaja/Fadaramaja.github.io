@@ -143,6 +143,6 @@ The dataset used consisted of 1,000 transactions across 6 product categories. Wi
   
 **Dashboard Overview:** 
 
-![Supermarket Sale Dashboard.png](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/Supermarket%20Sale%20Dashboard.png)
+![Project_3](Project_3.png)
 
 
