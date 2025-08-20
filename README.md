@@ -149,7 +149,7 @@ The dataset used consisted of 1,000 transactions across 6 product categories. Wi
 
 # Project 4
 
-**Title:** HR Data Analysis and Dashboard
+**Title:** [HR Data Analysis and Dashboard](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/HR%20DATA%20ANALYTICS%20DASHBOARD.pbix)
 
 
 **Tools Used:** Power BI
@@ -162,4 +162,5 @@ The dataset used consisted of 1,000 transactions across 6 product categories. Wi
 
 
 **Dashboard Overview:**
+![HR_Dashboardd](HR_Dashboardd.png)
 
