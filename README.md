@@ -146,3 +146,20 @@ The dataset used consisted of 1,000 transactions across 6 product categories. Wi
 ![Project_3](Project_3.png)
 
 
+
+# Project 4
+
+**Title:** HR Data Analysis and Dashboard
+
+
+**Tools Used:** Power BI
+
+
+**Project Description:**
+
+
+**Key Findings:**
+
+
+**Dashboard Overview:**
+
