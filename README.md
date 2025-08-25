@@ -179,3 +179,92 @@ This dashboard empowers HR leaders with clear visibility into workforce health, 
 **Dashboard Overview:**
 ![HR_Dashboardd](HR_Dashboardd.png)
 
+
+
+
+# Project 5
+
+**Title:** [HK Superstore Dashboard](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/HK_Superstore_Dashboard_.pbix)
+
+**Tool Used:** Microsoft Power BI
+
+**Project Description:** This Power BI dashboard was developed for HK Superstore to provide stakeholders with a comprehensive overview of sales performance, profitability, customer behavior, and operational efficiency.
+The dashboard integrates data from Orders, Returns, and User tables to deliver real-time insights into revenue, profit, regional performance, product categories, customer acquisition, and order management.
+
+The goal is to support data-driven decision-making by highlighting trends, identifying high-performing areas, and uncovering risks such as high return rates or profit erosion.
+
+**Key Findings:**
+1. Overall Performance:
+
+- Total Orders: 9,426
+
+- Total Revenue: 8.95M
+
+- Total Profit: 1.31M
+
+- Profit Margin: 14.7%
+
+Indicates a healthy business, but profit margin suggests opportunities to optimize costs and discounts.
+
+2. Returns Impact:
+
+- Returned Orders: 1,634 (17%)
+
+This is a significant proportion of sales and directly impacts profit. This suggests potential issues with product quality, shipping, or customer satisfaction and needs further investigation.
+
+3. Customer Analysis:
+
+- New Customers: 2,703
+
+- Returning Customers: 1,676
+
+While acquisition is strong, improving customer retention could drive more sustainable long-term growth.
+
+4. Regional Performance
+
+- Central and East regions generated the highest revenue.
+
+- South region lags.
+
+Regional focus could improve sales consistency.
+
+5. Product Category Insights
+
+- Technology and Furniture dominate sales.
+
+- Office Supplies underperform in both sales and profit.
+
+Revisiting pricing, introducing a discount strategy or optimising inventory could boost sales for Office Supplies.
+
+6. Manager Performance
+
+- Sales distributed among managers show Chris and Erin leading, while Sam lags.
+
+- Provides an opportunity to share best practices across the team.
+
+7. Time Trends
+
+- Sales and profits are on a consistent upward trend from 2010 to 2013.
+
+- Suggests strong business growth, but monitoring return rates is essential to protect margins.
+
+8. Order Priority
+
+- Sales are distributed across different priorities, but High Priority orders do not significantly outperform others.
+
+- Indicates that urgency does not necessarily drive higher revenue.
+
+**Strategic Recommendations**
+
+Reduce Returns: Investigate high-return products /regions to cut down on losses.
+
+Boost Retention: Implement loyalty programs, targeted promotions, or personalised offers to increase repeat customers.
+
+Optimise Product Mix: Focus on Technology and Furniture while addressing profitability issues in Office Supplies.
+
+Regional Strategy: Strengthen sales and marketing in weaker regions, such as the South, by replicating successful strategies implemented in high-performing regions where possible.
+
+Manager Performance Review: Learn from high-performing managers and replicate strategies, training and retraining managers could help.
+
+**Dashboard Overview:**
+![HK_Image](HK_Image.png)
