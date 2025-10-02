@@ -274,15 +274,72 @@ Manager Performance Review: Learn from high-performing managers and replicate st
 
 **Title:** [Gilgal Hill Corporations Dashboard](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/Gilgal%20Hill%20PROJECT.pbix)
 
-**Tools Used:** Microsoft Power BI
+**Tools Used:** Microsoft Power BI (for advanced DAX for calculated columns, data modelling, measures, visualisation, and analysis)
 
-**Project Description:** 
-
+**Project Description:** This project leverages Microsoft Power BI to analyse Gilgal Hill Corporation’s workforce distribution, salary costs, banking preferences, and geographical diversity. The dashboard provides interactive insights into employee headcount, salary structures, departmental performance, and state-level representation, enabling leadership to make data-driven decisions that optimise workforce management and financial efficiency.
 
 
 **Key findings:**
+1. Headcount Analysis
+
+- Total employees: 1000.
+
+- Human Resources has the highest department headcount (220 employees).
+
+- Training & Development and Benefits Administration & Payroll lead in unit-level headcount (74 and 73 employees).
+
+- Geographically, states like Bauchi, Ekiti, and Cross-River have the largest representation, while Kebbi and Oyo have the least.
+
+2. Salary Analysis
+
+- Total salary cost: ₦3.12bn with an average salary of ₦3.12M.
+
+- Maximum salary of an Enployee: ₦6.0M, minimum salary: ₦260.79K.
+
+- Departments such as Human Resources and Finance record the highest salary expenditure.
+
+- High earners (₦1M+) represent 884 employees, while only 116 employees fall below this threshold.
+
+3. Banking Analysis
+
+- Sub-Standard Bank is the most used by employees (268 accounts).
+
+- Salary distribution shows Sub-Standard Bank also accounts for the highest payroll sums.
+
+4. Geographical Diversity
+
+- Employee distribution is widespread across Nigerian states, with all states represented.
+
+- Regional disparities exist, with states like Kebbi and Oyo having very low employee representation.
+
+5. Department Insights
+
+- Salary and headcount drill-down reveal Human Resources, Finance, and Admin as the largest salary cost drivers.
+
+- Departments like Internal Control and R&D have relatively fewer employees but stable average salaries.
 
 **Strategic Recommendations**
+1. Optimise Salary Costs
+
+- Review high salary departments (HR and Finance) to identify opportunities for cost rationalisation without reducing efficiency.
+
+2. Talent Distribution
+
+- Address geographical imbalances by creating outreach or recruitment drives in underrepresented states like Kebbi, Oyo.
+
+3. Employee Retention & Equity
+
+- Ensure fair salary distribution across units to reduce disparity between high and low earners.
+
+- Consider targeted training for departments with high headcount but relatively low output.
+
+4. Banking Partnerships
+
+- Negotiate preferential banking arrangements with Sub-Standard Bank or diversify payroll distribution to reduce dependency risk.
+
+5. Data-Driven Workforce Planning
+
+- Use the dashboards as a continuous monitoring tool for HR, Finance, and Operations decision-making.
 
 **Dashboard Overview:** 
 ![GHPg_1.jpg](GHPg_1.jpg)
