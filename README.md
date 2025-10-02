@@ -268,3 +268,21 @@ Manager Performance Review: Learn from high-performing managers and replicate st
 
 **Dashboard Overview:**
 ![HK_Image](HK_Image.png)
+
+
+# Project 6
+
+**Title:** 
+
+**Tools Used:** Microsoft Power BI
+
+**Project Description:** 
+
+
+
+**Key findings:**
+
+
+**Dashboard Overview:** 
+
+
