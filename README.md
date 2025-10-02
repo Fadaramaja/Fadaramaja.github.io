@@ -272,7 +272,7 @@ Manager Performance Review: Learn from high-performing managers and replicate st
 
 # Project 6
 
-**Title:** 
+**Title:** [Gilgal Hill Corporations Dashboard](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/Gilgal%20Hill%20PROJECT.pbix)
 
 **Tools Used:** Microsoft Power BI
 
@@ -282,7 +282,13 @@ Manager Performance Review: Learn from high-performing managers and replicate st
 
 **Key findings:**
 
+**Strategic Recommendations**
 
 **Dashboard Overview:** 
+![GHPg_1.jpg](GHPg_1.jpg)
+
+![GHPg_2](GHPg_2.jpg)
+
+![GHPg_3](GHPg_3.jpg)
 
 
