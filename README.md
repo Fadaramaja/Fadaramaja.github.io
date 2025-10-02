@@ -194,7 +194,7 @@ The dashboard integrates data from Orders, Returns, and User tables to deliver r
 The goal is to support data-driven decision-making by highlighting trends, identifying high-performing areas, and uncovering risks such as high return rates or profit erosion.
 
 **Key Findings:**
-1. Overall Performance:
+Overall Performance:
 
 - Total Orders: 9,426
 
@@ -206,13 +206,13 @@ The goal is to support data-driven decision-making by highlighting trends, ident
 
 Indicates a healthy business, but profit margin suggests opportunities to optimise costs and discounts.
 
-2. Returns Impact:
+Returns Impact:
 
 - Returned Orders: 1,634 (17%)
 
 This is a significant proportion of sales and directly impacts profit. This suggests potential issues with product quality, shipping, or customer satisfaction and needs further investigation.
 
-3. Customer Analysis:
+Customer Analysis:
 
 - New Customers: 2,703
 
@@ -220,7 +220,7 @@ This is a significant proportion of sales and directly impacts profit. This sugg
 
 While acquisition is strong, improving customer retention could drive more sustainable long-term growth.
 
-4. Regional Performance
+Regional Performance
 
 - Central and East regions generated the highest revenue.
 
@@ -228,7 +228,7 @@ While acquisition is strong, improving customer retention could drive more susta
 
 Regional focus could improve sales consistency.
 
-5. Product Category Insights
+Product Category Insights
 
 - Technology and Furniture dominate sales.
 
@@ -236,19 +236,19 @@ Regional focus could improve sales consistency.
 
 Revisiting pricing, introducing a discount strategy or optimising inventory could boost sales for Office Supplies.
 
-6. Manager Performance
+Manager Performance
 
 - Sales distributed among managers show Chris and Erin leading, while Sam lags.
 
 - Provides an opportunity to share best practices across the team.
 
-7. Time Trends
+Time Trends
 
 - Sales and profits are on a consistent upward trend from 2010 to 2013.
 
 - Suggests strong business growth, but monitoring return rates is essential to protect margins.
 
-8. Order Priority
+Order Priority
 
 - Sales are distributed across different priorities, but High Priority orders do not significantly outperform others.
 
@@ -280,7 +280,7 @@ Manager Performance Review: Learn from high-performing managers and replicate st
 
 
 **Key findings:**
-1. Headcount Analysis
+Headcount Analysis
 
 - Total employees: 1000.
 
@@ -290,7 +290,7 @@ Manager Performance Review: Learn from high-performing managers and replicate st
 
 - Geographically, states like Bauchi, Ekiti, and Cross-River have the largest representation, while Kebbi and Oyo have the least.
 
-2. Salary Analysis
+Salary Analysis
 
 - Total salary cost: ₦3.12bn with an average salary of ₦3.12M.
 
@@ -300,44 +300,44 @@ Manager Performance Review: Learn from high-performing managers and replicate st
 
 - High earners (₦1M+) represent 884 employees, while only 116 employees fall below this threshold.
 
-3. Banking Analysis
+Banking Analysis
 
 - Sub-Standard Bank is the most used by employees (268 accounts).
 
 - Salary distribution shows Sub-Standard Bank also accounts for the highest payroll sums.
 
-4. Geographical Diversity
+Geographical Diversity
 
 - Employee distribution is widespread across Nigerian states, with all states represented.
 
 - Regional disparities exist, with states like Kebbi and Oyo having very low employee representation.
 
-5. Department Insights
+Department Insights
 
 - Salary and headcount drill-down reveal Human Resources, Finance, and Admin as the largest salary cost drivers.
 
 - Departments like Internal Control and R&D have relatively fewer employees but stable average salaries.
 
 **Strategic Recommendations**
-1. Optimise Salary Costs
+Optimise Salary Costs
 
 - Review high salary departments (HR and Finance) to identify opportunities for cost rationalisation without reducing efficiency.
 
-2. Talent Distribution
+Talent Distribution
 
 - Address geographical imbalances by creating outreach or recruitment drives in underrepresented states like Kebbi, Oyo.
 
-3. Employee Retention & Equity
+Employee Retention & Equity
 
 - Ensure fair salary distribution across units to reduce disparity between high and low earners.
 
 - Consider targeted training for departments with high headcount but relatively low output.
 
-4. Banking Partnerships
+Banking Partnerships
 
 - Negotiate preferential banking arrangements with Sub-Standard Bank or diversify payroll distribution to reduce dependency risk.
 
-5. Data-Driven Workforce Planning
+Data-Driven Workforce Planning
 
 - Use the dashboards as a continuous monitoring tool for HR, Finance, and Operations decision-making.
 
