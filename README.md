@@ -204,7 +204,7 @@ The goal is to support data-driven decision-making by highlighting trends, ident
 
 - Profit Margin: 14.7%
 
-Indicates a healthy business, but profit margin suggests opportunities to optimize costs and discounts.
+Indicates a healthy business, but profit margin suggests opportunities to optimise costs and discounts.
 
 2. Returns Impact:
 
