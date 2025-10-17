@@ -194,7 +194,7 @@ The dashboard integrates data from Orders, Returns, and User tables to deliver r
 The goal is to support data-driven decision-making by highlighting trends, identifying high-performing areas, and uncovering risks such as high return rates or profit erosion.
 
 **Key Findings:**
-Overall Performance:
+a. Overall Performance:
 
 - Total Orders: 9,426
 
@@ -206,13 +206,13 @@ Overall Performance:
 
 Indicates a healthy business, but profit margin suggests opportunities to optimise costs and discounts.
 
-Returns Impact:
+b. Returns Impact:
 
 - Returned Orders: 1,634 (17%)
 
 This is a significant proportion of sales and directly impacts profit. This suggests potential issues with product quality, shipping, or customer satisfaction and needs further investigation.
 
-Customer Analysis:
+c. Customer Analysis:
 
 - New Customers: 2,703
 
@@ -220,7 +220,7 @@ Customer Analysis:
 
 While acquisition is strong, improving customer retention could drive more sustainable long-term growth.
 
-Regional Performance
+d. Regional Performance
 
 - Central and East regions generated the highest revenue.
 
@@ -228,7 +228,7 @@ Regional Performance
 
 Regional focus could improve sales consistency.
 
-Product Category Insights
+e. Product Category Insights
 
 - Technology and Furniture dominate sales.
 
@@ -236,19 +236,19 @@ Product Category Insights
 
 Revisiting pricing, introducing a discount strategy or optimising inventory could boost sales for Office Supplies.
 
-Manager Performance
+f. Manager Performance
 
 - Sales distributed among managers show Chris and Erin leading, while Sam lags.
 
 - Provides an opportunity to share best practices across the team.
 
-Time Trends
+g. Time Trends
 
 - Sales and profits are on a consistent upward trend from 2010 to 2013.
 
 - Suggests strong business growth, but monitoring return rates is essential to protect margins.
 
-Order Priority
+h. Order Priority
 
 - Sales are distributed across different priorities, but High Priority orders do not significantly outperform others.
 
@@ -280,7 +280,7 @@ Manager Performance Review: Learn from high-performing managers and replicate st
 
 
 **Key findings:**
-Headcount Analysis
+a. Headcount Analysis
 
 - Total employees: 1000.
 
@@ -290,7 +290,7 @@ Headcount Analysis
 
 - Geographically, states like Bauchi, Ekiti, and Cross-River have the largest representation, while Kebbi and Oyo have the least.
 
-Salary Analysis
+b. Salary Analysis
 
 - Total salary cost: ₦3.12bn with an average salary of ₦3.12M.
 
@@ -300,44 +300,44 @@ Salary Analysis
 
 - High earners (₦1M+) represent 884 employees, while only 116 employees fall below this threshold.
 
-Banking Analysis
+c. Banking Analysis
 
 - Sub-Standard Bank is the most used by employees (268 accounts).
 
 - Salary distribution shows Sub-Standard Bank also accounts for the highest payroll sums.
 
-Geographical Diversity
+d. Geographical Diversity
 
 - Employee distribution is widespread across Nigerian states, with all states represented.
 
 - Regional disparities exist, with states like Kebbi and Oyo having very low employee representation.
 
-Department Insights
+e. Department Insights
 
 - Salary and headcount drill-down reveal Human Resources, Finance, and Admin as the largest salary cost drivers.
 
 - Departments like Internal Control and R&D have relatively fewer employees but stable average salaries.
 
 **Strategic Recommendations**
-Optimise Salary Costs
+1. Optimise Salary Costs
 
 - Review high salary departments (HR and Finance) to identify opportunities for cost rationalisation without reducing efficiency.
 
-Talent Distribution
+2. Talent Distribution
 
 - Address geographical imbalances by creating outreach or recruitment drives in underrepresented states like Kebbi, Oyo.
 
-Employee Retention & Equity
+3. Employee Retention & Equity
 
 - Ensure fair salary distribution across units to reduce disparity between high and low earners.
 
 - Consider targeted training for departments with high headcount but relatively low output.
 
-Banking Partnerships
+4. Banking Partnerships
 
 - Negotiate preferential banking arrangements with Sub-Standard Bank or diversify payroll distribution to reduce dependency risk.
 
-Data-Driven Workforce Planning
+5. Data-Driven Workforce Planning
 
 - Use the dashboards as a continuous monitoring tool for HR, Finance, and Operations decision-making.
 
@@ -348,4 +348,45 @@ Data-Driven Workforce Planning
 
 ![GHPg_3](GHPg_3.jpg)
 
+
+# Project 7
+
+**Title:** [Gilgal Hill Analysis With Python](https://github.com/Fadaramaja/Fadaramaja.github.io/blob/main/Gilgal%20Hill%20Project.ipynb)
+
+**Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+**Project Description:** This project is a comprehensive payroll data analysis for Gilgal Hill Corporation, aimed at exploring staff distribution, salary trends, and departmental cost structures. The goal was to help management understand workforce composition and salary expenditure patterns.
+
+Using Python (Pandas, NumPy, Matplotlib, Seaborn), I imported and cleaned raw payroll data from an Excel file, removed redundant fields, and created calculated columns. I then applied business rules to calculate multiple bonus scenarios (₦-based conditions by department and salary range).
+
+Through data aggregation and visualisation, I built a detailed drill-down analysis showing Total Salary, Headcount, and average salary for each department and unit. I also analysed employee demographics by State of Origin, visualising distributions through bar and pie charts to highlight staffing concentration.
+
+This project demonstrated my ability to transform raw HR data into actionable business intelligence, automate repetitive payroll analysis, and create visual insights that support strategic HR decisions.
+
+**Process Overview:**
+
+- Data Cleaning: Removed irrelevant and empty columns, verified data types.
+
+- Feature Engineering: Computed six different bonus rules based on salary thresholds and department logic as requested.
+
+- Aggregation: Grouped records by Department and Unit to calculate Total Salary, Headcount, and Average Salary.
+
+- Visual Analytics: Used Matplotlib and Seaborn to produce comparative charts — salary by department, headcount by unit, and high vs. low earners.
+
+- Geographical Insights: Visualised employee count by State of Origin using bar and pie charts.
+
+**Key Findings:**
+
+- HR, Finance, and Admin departments accounted for the highest total salary spend.
+
+- The average salary per department varied significantly, indicating potential pay imbalances.
+
+- Geographic analysis revealed a high employee concentration in a few key states
+
+**Dashboard Overview:** 
+![Gil1.jpg](Gil1.jpg)
+![Gil2.jpg](Gil2.jpg)
+![Gil3.jpg](Gil3.jpg)
+![Gil4.jpg](Gil4.jpg)
+![Gil5.jpg](Gil5.jpg)
 
