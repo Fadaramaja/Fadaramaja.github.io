@@ -388,5 +388,5 @@ This project demonstrated my ability to transform raw HR data into actionable bu
 ![Gil2.jpg](Gil2.jpg)
 ![Gil3.jpg](Gil3.jpg)
 ![Gil4.jpg](Gil4.jpg)
-![Gil5.jpg](Gil5.jpg)
+
 
